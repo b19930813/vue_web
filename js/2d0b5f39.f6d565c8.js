@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d0b5f39"],{"1aa4":function(e,n,t){"use strict";t.r(n);var o=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("p",[e._v("吃什麼都會長大，作者懶了，自己腦補")])},a=[];o._withStripped=!0;var i=t("2877"),l={},p=Object(i["a"])(l,o,a,!1,null,null,null);p.options.__file="food.vue";n["default"]=p.exports}}]);

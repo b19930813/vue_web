@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["2d0c1f43"],{"47f0":function(e,t,n){"use strict";n.r(t);var p=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("p",[e._v("九如路，自己去找，作者懶了")])},i=[];p._withStripped=!0;var l=n("2877"),o={},r=Object(l["a"])(o,p,i,!1,null,null,null);r.options.__file="spot.vue";t["default"]=r.exports}}]);
